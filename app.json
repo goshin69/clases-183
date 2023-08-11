@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-status-bar": "~1.4.2",
+    "expo-camera": "~13.1.0",
+    "expo-face-detector": "~12.0.0"
+  }
+}
